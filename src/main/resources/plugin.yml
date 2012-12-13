@@ -1,0 +1,6 @@
+name: CatMotion
+version: 2.0
+main: me.blockcat.catmotion.CatMotion
+commands:
+    cmotion:
+    cm:
